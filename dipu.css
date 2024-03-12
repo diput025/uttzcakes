@@ -1,0 +1,86 @@
+.logo{
+    text-align: center;
+    background-color: navy;
+    color: aliceblue;
+
+}
+.logo h1{
+font-family: Arial, Helvetica, sans-serif;
+}
+#ab{
+    margin-top:-10px;
+}
+
+
+#nav li a{
+    color: navy;
+    margin-left:130px;
+    font-size: larger ;
+}
+.navbar li a:hover{
+    color: white;
+    background-color: gainsboro;
+    transition: (1.3);
+    border-radius: 5px;
+    
+    
+}
+
+.navbar-brand img:hover{
+    transition: (1.1);
+    background-color: black;
+}
+.carousel-caption{
+    margin-bottom: 95px;
+}
+
+.off{
+    color: black;
+    padding-left: 10px;
+}
+
+.carousel slide{
+    background-color: bisque;
+}
+
+.par{
+    color:black;
+    margin-left:200px;
+    margin-top: 100px;
+}
+#cardbtn{
+    margin-left: 150px;
+}
+
+.footer .box a{
+    text-decoration: none;
+    color: brown;
+}
+
+#dip{
+    margin-left: 600px;
+    margin-top: -170px;
+}
+#utz{
+    
+    margin-top:60px;
+   
+}
+#utz h3{
+    margin-top: -70px;
+}
+.share  a{
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 20px;
+    text-decoration: none;
+    color:darkred
+}
+
+.dip a{
+    text-decoration: none;
+    color:darkred
+}
+.dip1{
+    background-color: bisque;
+}
